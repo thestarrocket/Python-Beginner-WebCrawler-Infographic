@@ -108,8 +108,8 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 ### 獨角獸都愛往哪裡鑽-科技趨勢探索
    * [成果簡報](https://drive.google.com/file/d/1c4Pc2sawzOdqZNI-8b7c0ejLu-1qbiOd/view?usp=sharing)
    * 程式編碼：
-      *  [檔案 1]("https://github.com/KallenHuang/homework2/blob/master/ptt-movie.py)
-      * [檔案 2](https://github.com/KallenHuang/homework2/blob/master/ptt-movie2.py")
+      * [檔案 1](https://github.com/KallenHuang/homework2/blob/master/ptt-movie.py)
+      * [檔案 2](https://github.com/KallenHuang/homework2/blob/master/ptt-movie2.py)
 
 ## 課程媒體紀錄
 * [課程照片](https://drive.google.com/drive/folders/1BEc8fervyEIH-iVsjEEjaJ7WO4Tljzue?usp=sharing)
@@ -156,12 +156,12 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
         * [教學文件](https://docs.python.org/3/tutorial/index.html)
         * [參考資料](https://docs.python.org/3/library/index.html)
         * [網路連線](https://docs.python.org/3/tutorial/stdlib.html#internet-access)
-    * 解析網頁原始資料：[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-    * 強化基礎語法的運用：[LeetCode](https://leetcode.com/)
-    * 資料分析套件：[Pandas](https://pandas.pydata.org/)
-    * 人工智慧套件：[TensorFlow](https://www.tensorflow.org/)
-    * 小型遊戲套件：[PyGame](https://www.pygame.org/news)
-    * 架站伺服器與資料庫
+   * 解析網頁原始資料：[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+   * 強化基礎語法的運用：[LeetCode](https://leetcode.com/)
+   * 資料分析套件：[Pandas](https://pandas.pydata.org/)
+   * 人工智慧套件：[TensorFlow](https://www.tensorflow.org/)
+   * 小型遊戲套件：[PyGame](https://www.pygame.org/news)
+   * 架站伺服器與資料庫
         * [Flask](http://flask.pocoo.org/)
         * [Django](https://www.djangoproject.com/)
         * [PostgreSQL](https://www.postgresql.org/)
