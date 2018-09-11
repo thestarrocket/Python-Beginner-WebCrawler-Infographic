@@ -26,13 +26,13 @@
 ### 1. Python 簡介、安裝：
 Python 的基礎認識及介紹，安裝實作，了解 Python 程式語言資料操作架構，如：數字、字串、列表、集合、字典等，認識並利用運算(如：算術運算、比較運算、指定運算、邏輯運算、集合運算、等...)。
    * 作業：在自己的電腦準備好開發環境，寫出可以做出讓使用者輸入字串能計算乘法的程式。
-    * 學習影片：
+   * 學習影片：
         * [簡介、安裝與快速開始](https://www.youtube.com/watch?v=wqRlKVRUV_k)
         * [變數與資料型態](https://www.youtube.com/watch?v=FMruNSjHOzQ)
         * [數字、字串的基本運算](https://www.youtube.com/watch?v=bLRa4TZ99aY)
         * [有序列表的基本運算](https://www.youtube.com/watch?v=JLU5oc4_VtA)
         * [集合、字典的基本運算](https://www.youtube.com/watch?v=L3-KuGYhw78)
-    * 學員作業參考：
+   * 學員作業參考：
         * [作業 1](https://github.com/dubidub/StarRocketPythonWork/blob/master/homework_w1.py)
         * [作業 2](https://github.com/lisa81113/python-training/blob/master/20180611_HW.py)
         * [作業 3](https://github.com/VincentHahaha/Python-Learning/blob/master/Practice1.py)
@@ -41,11 +41,11 @@ Python 的基礎認識及介紹，安裝實作，了解 Python 程式語言資�
 ### 2. 流程控制
 if 判斷式、for/while 迴圈：對於程式語言基本的資料運算邏輯認識，以及程式計算語法的掌握。
    * 作業：做出計算機程式，輸出 9x9 乘法表。
-    * 學習影片
+   * 學習影片
         * [流程控制：if 判斷式](https://www.youtube.com/watch?v=A93BsHB-lWo)
         * [流程控制：迴圈基礎](https://www.youtube.com/watch?v=szaAeLt_49U)
         * [流程控制：迴圈進階](https://www.youtube.com/watch?v=yBXlwOmLqZ4)
-    * 學員作業參考：
+   * 學員作業參考：
         * [作業 1](https://github.com/dubidub/StarRocketPythonWork/blob/master/homework_w2.py)
         * [作業 2](https://github.com/lisa81113/python-training/blob/master/20180709_HW.py)
         * [作業 3](https://github.com/VincentHahaha/Python-Learning/commit/d0e14f498a28fd2eeb0b5467c7e6ce42b0c6f565)
@@ -54,12 +54,12 @@ if 判斷式、for/while 迴圈：對於程式語言基本的資料運算邏輯�
 ### 3. 函式基礎、認識和使用模組
 程式碼組合、函式、模組的認識、定義和使用；利用模組化的形式將程式碼有效組合並且優化。
    * 作業：將寫完的 9x9 乘法表程式碼，並包裝成為 NxN 乘法表函式。
-    * 學習影片：
+   * 學習影片：
         * [函式基礎：定義與呼叫](https://www.youtube.com/watch?v=7qKFvUVpQXg)
         * [函式參數詳解](https://www.youtube.com/watch?v=OOJmhezLd4o)
         * [模組的觀念與使用](https://www.youtube.com/watch?v=Et0DjY2cGiE)
         * [封包的使用](https://www.youtube.com/watch?v=GGp-7VHgsKk)
-    * 學員作業參考：
+   * 學員作業參考：
         * [作業 1](https://github.com/lisa81113/python-training/tree/master/20180723_HW)
         * [作業 2](https://github.com/VincentHahaha/Python-Learning/commit/5b4cb8e3568055a6af99078b627d2674b39f0af9)
         * 作業 3
@@ -73,10 +73,10 @@ if 判斷式、for/while 迴圈：對於程式語言基本的資料運算邏輯�
 ### 4. 統計與數學模組、檔案的讀取與寫入
 透過程式編寫做資料統計運算的功能，學習編寫讀取本機的檔案和資料，並寫入儲存檔案。
    * 作業：從老師提供的檔案中讀取學生成績，並使用程式碼分析輸出統計資訊。
-    * 學習影片：
+   * 學習影片：
         * [讀取、儲存文字檔案](https://www.youtube.com/watch?v=C4OkV6DrVRs)
         * [亂數模組、統計模組](https://www.youtube.com/watch?v=-xwCu6PN1jU)
-    * 學員作業參考：
+   * 學員作業參考：
         * [作業 1](https://github.com/dubidub/StarRocketPythonWork/blob/master/homework_w4.py)
         * [作業 2](https://github.com/lisa81113/python-training/blob/master/20180806_HW_mrt.py)
         * [作業 3](
