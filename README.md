@@ -90,25 +90,25 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 ### 6. 類別與物件，Pyplot 資料視覺化
 認識 Python 程式語言的物件導向建構概念，並學習設計編碼、將所分析的資料使用 Pyplot 圖像化模組做資料視覺化應用呈現。
    * 作業：從檔案或網路上存取特定的資料，並用 Python 程式製作出圖表畫面呈現。在特殊性創業的提案產業中有階段性初步調查的結果。
-    * 參考資料：
-        * [Plotly](https://plot.ly/)
+   * 參考資料：
+       * [Plotly](https://plot.ly/)
 
 ## 課程成果：
 
 ### 台北市租屋市場
    * [成果簡報](https://drive.google.com/file/d/1xlJRpi0eIdaLTzn_G6PQfYLvywpH1vvy/view?usp=sharing)
-    * [程式編碼](https://github.com/dubidub/StarRocketPythonWork/blob/master/taipeiRental.py)
+   * [程式編碼](https://github.com/dubidub/StarRocketPythonWork/blob/master/taipeiRental.py)
 ### 地區降雨量爬蟲
    * [成果簡報](https://drive.google.com/file/d/1YeC0Ha6wvjQqQdWLcvp5P0ETmBzzUBlM/view?usp=sharing)
 
 ### PTT電影評價系統
    * [成果簡報](https://drive.google.com/file/d/1Ij896Vfg_dbTiAtPySOfoCWv3apcs93y/view?usp=sharing)
-    * [程式編碼](https://github.com/VincentHahaha/Python-Learning/commit/eeb572b072bb707b48a1759d778c4513b95d5c3b)
+   * [程式編碼](https://github.com/VincentHahaha/Python-Learning/commit/eeb572b072bb707b48a1759d778c4513b95d5c3b)
 
 ### 獨角獸都愛往哪裡鑽-科技趨勢探索
    * [成果簡報](https://drive.google.com/file/d/1c4Pc2sawzOdqZNI-8b7c0ejLu-1qbiOd/view?usp=sharing)
-    * 程式編碼：
-        *  [檔案 1]("https://github.com/KallenHuang/homework2/blob/master/ptt-movie.py)
+   * 程式編碼：
+      *  [檔案 1]("https://github.com/KallenHuang/homework2/blob/master/ptt-movie.py)
       * [檔案 2](https://github.com/KallenHuang/homework2/blob/master/ptt-movie2.py")
 
 ## 課程媒體紀錄
@@ -122,10 +122,10 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 ## 其他學習資源
 ### 線上學習
    * [莫煩python](https://morvanzhou.github.io/tutorials/python-basic/basic/)
-    * [正則表達式](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：給條件限定爬資料好用。
-    * [外掛駭客](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：會推薦好用爬蟲工具，以輕鬆聊天的形式培養高手思維。
-    * [大數學堂](https://www.largitdata.com/course_list/)：範例一把抓，且定期更新維護。
-    * [廣宣學堂](https://www.facebook.com/broadmission/)：專業軟體學習社群平台
+   * [正則表達式](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：給條件限定爬資料好用。
+   * [外掛駭客](https://gaming.youtube.com/channel/UCL5fgUWLpzSzJcgfFsfM4Qg)：會推薦好用爬蟲工具，以輕鬆聊天的形式培養高手思維。
+   * [大數學堂](https://www.largitdata.com/course_list/)：範例一把抓，且定期更新維護。
+   * [廣宣學堂](https://www.facebook.com/broadmission/)：專業軟體學習社群平台
 
 
 ### 相關課程
@@ -139,18 +139,18 @@ https://github.com/VincentHahaha/Python-Learning/commit/3bff6bc999e88e9272ff6bad
 
 ### 閱讀書籍
    * [Python 程式設計入門 (適用於 2.x 與 3.x 版) ](https://www.tenlong.com.tw/products/9789864340057)
-    * [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
-    * [Python 自動化的樂趣：搞定重複瑣碎&單調無聊的工作](https://www.books.com.tw/products/0010739372)
+   * [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
+   * [Python 自動化的樂趣：搞定重複瑣碎&單調無聊的工作](https://www.books.com.tw/products/0010739372)
 
 ### 當地社群
    * [Taipei.py](https://www.meetup.com/Taipei-py/)
-    * [PyLadies Taiwan](https://www.meetup.com/PyLadiesTW/)
-    * [Python Taiwan](https://www.facebook.com/groups/pythontw/?ref=br_rs)
+   * [PyLadies Taiwan](https://www.meetup.com/PyLadiesTW/)
+   * [Python Taiwan](https://www.facebook.com/groups/pythontw/?ref=br_rs)
 
 ### 應用程式（App）
    * [Encode](https://itunes.apple.com/us/app/encode-learn-to-code/id1198851756?mt=8)
-    * [Lrn](https://itunes.apple.com/tw/app/lrn-learn-to-code-in-html-css-javascript-ruby-python/id1019622677?mt=8)
-    * [Mimo](https://getmimo.com/)
+   * [Lrn](https://itunes.apple.com/tw/app/lrn-learn-to-code-in-html-css-javascript-ruby-python/id1019622677?mt=8)
+   * [Mimo](https://getmimo.com/)
 ### 未來推薦學習
    * 官方
         * [教學文件](https://docs.python.org/3/tutorial/index.html)
